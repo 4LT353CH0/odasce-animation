@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g id="foot_2_">
+	
+		<linearGradient id="XMLID_2_" gradientUnits="userSpaceOnUse" x1="1018.9586" y1="91.6469" x2="1027.9407" y2="98.7188" gradientTransform="matrix(-1 0 0 1 1071.6748 0)">
+		<stop  offset="0" style="stop-color:#A7C4E6"/>
+		<stop  offset="0.9946" style="stop-color:#007A9A"/>
+	</linearGradient>
+	<path id="XMLID_53_" style="fill:url(#XMLID_2_);" d="M46.6,94.4L46.6,94.4l0.2-1.3l4.9-0.1l0.3,1.4h0c0,0,0,0.1,0,0.1
+		c0,1.1-1.2,1.9-2.7,1.9c-1.5,0-2.7-0.9-2.7-1.9C46.6,94.5,46.6,94.5,46.6,94.4z"/>
+	
+		<linearGradient id="XMLID_3_" gradientUnits="userSpaceOnUse" x1="1028.8358" y1="94.7843" x2="1016.3571" y2="91.9537" gradientTransform="matrix(-1 0 0 1 1071.6748 0)">
+		<stop  offset="0" style="stop-color:#A7C4E6"/>
+		<stop  offset="0.9946" style="stop-color:#007A9A"/>
+	</linearGradient>
+	<ellipse id="XMLID_52_" style="fill:url(#XMLID_3_);" cx="49.3" cy="93.3" rx="2.5" ry="1.7"/>
+	
+		<linearGradient id="XMLID_4_" gradientUnits="userSpaceOnUse" x1="1021.3423" y1="95.3046" x2="1021.3423" y2="95.3046" gradientTransform="matrix(-1 0 0 1 1071.6748 0)">
+		<stop  offset="6.297816e-03" style="stop-color:#8FC07D"/>
+		<stop  offset="1" style="stop-color:#377F58"/>
+	</linearGradient>
+	<path id="XMLID_51_" style="fill:url(#XMLID_4_);" d="M50.3,95.3"/>
+</g>
+</svg>

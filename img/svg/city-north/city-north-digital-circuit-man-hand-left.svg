@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#left-hand_1_);}
+</style>
+<linearGradient id="left-hand_1_" gradientUnits="userSpaceOnUse" x1="-653.7252" y1="45.1703" x2="-651.0936" y2="45.1703" gradientTransform="matrix(-1 0 0 1 -581.2468 0)">
+	<stop  offset="0" style="stop-color:#E2E5F4"/>
+	<stop  offset="0.2383" style="stop-color:#E4E0ED"/>
+	<stop  offset="0.5769" style="stop-color:#EBD1DB"/>
+	<stop  offset="0.9741" style="stop-color:#F5BABC"/>
+	<stop  offset="1" style="stop-color:#F6B8BA"/>
+</linearGradient>
+<path id="left-hand_3_" class="st0" d="M72.5,45.3c-0.1-0.3-0.2-0.5-0.4-0.6c-0.3-0.2-0.5-0.3-0.6-0.5S71,44,71,44.2
+	s0.1,0.3,0.2,0.5c0,0.1,0.1,0.2,0.1,0.3c-0.3-0.2-0.6-0.4-0.8-0.5c-0.2-0.1-0.4-0.3-0.7-0.5c-0.1,0.1-0.1,0.2,0,0.4
+	c0.1,0.2,0.2,0.3,0.2,0.5c0,0.2,0,0.7,0.5,0.9c0.5,0.2,1.2,0.5,1.4,0.7C72.2,46.5,72.3,46.1,72.5,45.3z"/>
+</svg>

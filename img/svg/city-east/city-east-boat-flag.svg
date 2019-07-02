@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g id="flag_2_">
+	<g id="base_29_">
+		
+			<linearGradient id="XMLID_2_" gradientUnits="userSpaceOnUse" x1="-94.5639" y1="29.8676" x2="-90.9209" y2="26.9993" gradientTransform="matrix(1 0 0 -1 100.6615 100)">
+			<stop  offset="5.376340e-03" style="stop-color:#32BDEF"/>
+			<stop  offset="1" style="stop-color:#315CA7"/>
+		</linearGradient>
+		<path id="XMLID_103_" style="fill:url(#XMLID_2_);" d="M8.6,71.2L8.6,71.2l-0.1-0.5h-2l-0.1,0.6l0,0c0,0,0,0,0,0.1
+			c0,0.4,0.5,0.8,1.1,0.8C8.1,72,8.6,71.7,8.6,71.2C8.6,71.3,8.6,71.2,8.6,71.2z"/>
+		
+			<linearGradient id="XMLID_3_" gradientUnits="userSpaceOnUse" x1="-90.5302" y1="28.6032" x2="-95.5915" y2="29.7512" gradientTransform="matrix(1 0 0 -1 100.6615 100)">
+			<stop  offset="5.376340e-03" style="stop-color:#32BDEF"/>
+			<stop  offset="1" style="stop-color:#315CA7"/>
+		</linearGradient>
+		<ellipse id="XMLID_102_" style="fill:url(#XMLID_3_);" cx="7.5" cy="70.8" rx="1" ry="0.7"/>
+	</g>
+	
+		<linearGradient id="pole_2_" gradientUnits="userSpaceOnUse" x1="-93.3386" y1="37.7" x2="-92.9762" y2="37.7" gradientTransform="matrix(1 0 0 -1 100.6615 100)">
+		<stop  offset="0" style="stop-color:#AAD5BD"/>
+		<stop  offset="1" style="stop-color:#F7F6D1"/>
+	</linearGradient>
+	<path id="pole_1_" style="fill:url(#pole_2_);" d="M7.5,70.9c-0.1,0-0.2-0.1-0.2-0.2V53.9c0-0.1,0.1-0.2,0.2-0.2s0.2,0.1,0.2,0.2
+		v16.8C7.7,70.8,7.6,70.9,7.5,70.9z"/>
+	
+		<linearGradient id="flag_1_" gradientUnits="userSpaceOnUse" x1="585.3604" y1="43.35" x2="591.5604" y2="43.35" gradientTransform="matrix(-1 0 0 -1 599.0688 100)">
+		<stop  offset="0" style="stop-color:#32BDEF"/>
+		<stop  offset="1" style="stop-color:#315CA7"/>
+	</linearGradient>
+	<path id="flag_3_" style="fill:url(#flag_1_);" d="M7.5,54c1.2,0.7,3.9-0.5,6.2,0.4l-0.1,4.9c-2.3-0.7-4.8,0.2-6.1-0.3
+		C7.5,56.6,7.5,54,7.5,54z"/>
+</g>
+</svg>

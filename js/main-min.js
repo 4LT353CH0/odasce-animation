@@ -1,1 +1,1 @@
-window.addEventListener("load",function(){console.log("hello")});
+window.addEventListener("load",function(){});

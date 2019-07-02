@@ -1,5 +1,5 @@
-/*jslint vars: true, plusplus: true, devel: true, nomen: true, indent: 4, maxerr: 50 */
+window.addEventListener("load", function () {
+    // @codekit-prepend "animations/schoolyard.js"
+    // @codekit-prepend "animations/arrows-north-east.js"    
 
-window.addEventListener("load", function(){
-    console.log("hello"); 
 });

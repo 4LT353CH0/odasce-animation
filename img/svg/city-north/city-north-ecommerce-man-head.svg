@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g>
+	
+		<linearGradient id="neck_1_" gradientUnits="userSpaceOnUse" x1="-393.0325" y1="65.1944" x2="-389.8574" y2="65.1944" gradientTransform="matrix(-1 0 0 -1 -354.3994 100)">
+		<stop  offset="5.117199e-03" style="stop-color:#F7C6D3"/>
+		<stop  offset="1" style="stop-color:#F3A8B2"/>
+	</linearGradient>
+	<path id="neck_2_" style="fill:url(#neck_1_);" d="M38.5,34.5c0,0,0,1,0.1,1.2c0,0-2.1,0.7-2.8,0c0,0-0.1-1.7-0.3-2.1L38.5,34.5z"
+		/>
+	
+		<linearGradient id="face_1_" gradientUnits="userSpaceOnUse" x1="-395.0195" y1="68.5255" x2="-389.1019" y2="68.5255" gradientTransform="matrix(-1 0 0 -1 -354.3994 100)">
+		<stop  offset="5.117199e-03" style="stop-color:#F7C6D3"/>
+		<stop  offset="1" style="stop-color:#F3A8B2"/>
+	</linearGradient>
+	<path id="face_10_" style="fill:url(#face_1_);" d="M35.4,33.3c-0.1-0.4-1.5-2.8,0-4.1c1.4-1.3,3.9-1.4,4.7-0.5s0.6,1.3,0.4,2.2
+		c-0.1,0.5,0.2,1.6,0.1,2s-0.2,1.5-0.5,1.7c-0.4,0.3-1,0.3-2,0.1C38.1,34.7,35.6,34.1,35.4,33.3z"/>
+	
+		<linearGradient id="hair_1_" gradientUnits="userSpaceOnUse" x1="-395.6266" y1="69.1213" x2="-388.1115" y2="69.1213" gradientTransform="matrix(-1 0 0 -1 -354.3994 100)">
+		<stop  offset="5.618000e-03" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#4E4D4D"/>
+	</linearGradient>
+	<path id="hair_10_" style="fill:url(#hair_1_);" d="M38.5,32.5c0,0,0.2-0.9-0.5-1s-0.7,0.5-0.7,0.8c0.1,0.3,0.3,0.9,0.5,1.1
+		c0,0-0.6,1-0.5,1.4c0,0-1.2,0.3-1.7-0.3c-0.6-0.5-1.1-1.3-1.4-2.2c-0.3-0.9-1.2-2.8,0.1-3.9c0,0,0.2-0.9,1.7-1.4
+		c1.4-0.5,3.2,0.8,5,0.1c0.5,1.1,0,2.6-1.6,2.8C39.5,29.8,39.2,32.3,38.5,32.5z"/>
+</g>
+</svg>

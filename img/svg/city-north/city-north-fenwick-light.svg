@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+</style>
+<g id="light_12_">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="711.0749" y1="66.6318" x2="711.0749" y2="71.2825" gradientTransform="matrix(1 0 0 -1 -697.9749 100)">
+		<stop  offset="6.297816e-03" style="stop-color:#7FBF7C"/>
+		<stop  offset="1" style="stop-color:#E9F4F3"/>
+	</linearGradient>
+	<path class="st0" d="M11.6,29.8v-0.1v0.7v2l0,0v0.1c0,0,0,0,0,0.1l0,0l0,0v0.1l0,0l0,0l0,0l0.1,0.1l0,0l0.1,0.1c0,0,0.1,0,0.1,0.1
+		l0,0c0.1,0.1,0.2,0.1,0.3,0.1l0,0h0.1c0.1,0,0.1,0,0.2,0c0,0,0,0,0.1,0h0.1l0,0l0,0c0.1,0,0.1,0,0.2,0c0,0,0,0,0.1,0l0,0
+		c0,0,0,0,0.1,0s0.1,0,0.2,0c0,0,0,0,0.1,0l0,0c0,0,0,0,0.1,0s0.1,0,0.2,0l0,0l0,0h0.1c0.1,0,0.1,0,0.1-0.1l0,0l0,0
+		c0.1,0,0.2-0.1,0.2-0.1c0.3-0.2,0.5-0.4,0.5-0.7l0,0v-2.7l0,0c0-0.2-0.2-0.5-0.5-0.7c-0.7-0.4-1.7-0.4-2.4,0
+		C11.7,29.2,11.6,29.5,11.6,29.8z"/>
+	<g>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="709.5812" y1="67.7" x2="712.9175" y2="67.7" gradientTransform="matrix(1 0 0 -1 -697.9749 100)">
+			<stop  offset="0" style="stop-color:#4489C8"/>
+			<stop  offset="0.2523" style="stop-color:#4A92C8"/>
+			<stop  offset="0.6624" style="stop-color:#5BAAC9"/>
+			<stop  offset="1" style="stop-color:#6CC3C9"/>
+		</linearGradient>
+		<path class="st1" d="M11.6,31.7L11.6,31.7v0.1c0,0,0,0,0,0.1l0,0l0,0V32l0,0l0,0l0,0l0.1,0.1l0,0l0.1,0.1c0,0,0.1,0,0.1,0.1l0,0
+			c0.1,0.1,0.2,0.1,0.3,0.1l0,0h0.1c0.1,0,0.1,0,0.2,0c0,0,0,0,0.1,0h0.1l0,0l0,0c0.1,0,0.1,0,0.2,0c0,0,0,0,0.1,0l0,0
+			c0,0,0,0,0.1,0s0.1,0,0.2,0c0,0,0,0,0.1,0l0,0c0,0,0,0,0.1,0s0.1,0,0.2,0l0,0l0,0h0.1c0.1,0,0.1,0,0.1-0.1l0,0l0,0
+			c0.1,0,0.2-0.1,0.2-0.1c0.3-0.2,0.5-0.4,0.5-0.7v0.7c0,0.2-0.2,0.5-0.5,0.7c-0.1,0-0.2,0.1-0.2,0.1l0,0l0,0c0,0-0.1,0-0.1,0.1
+			h-0.1l0,0l0,0c-0.1,0-0.1,0-0.2,0c0,0,0,0-0.1,0l0,0c0,0,0,0-0.1,0s-0.1,0-0.2,0c0,0,0,0-0.1,0l0,0c0,0,0,0-0.1,0s-0.1,0-0.2,0
+			l0,0l0,0h-0.1c0,0,0,0-0.1,0s-0.1,0-0.2,0h-0.1l0,0c-0.1,0-0.2-0.1-0.3-0.1l0,0c0,0-0.1,0-0.1-0.1l-0.1-0.1l0,0l-0.1-0.1l0,0l0,0
+			l0,0v-0.1l0,0l0,0c0,0,0,0,0-0.1v-0.1l0,0V31.7z"/>
+	</g>
+</g>
+</svg>

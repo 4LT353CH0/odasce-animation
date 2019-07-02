@@ -1,0 +1,130 @@
+// city south
+.animblock {
+    &__item--city-south {
+        .storage-worker {
+            top: 545px;
+            left: 512px;
+
+            >:nth-child(1) {
+                width: $huge + $medium;
+            }
+
+            >:nth-child(2) {
+                width: $huge + $medium;
+            }
+
+            // .storage-worker
+        }
+
+        .helpdesk {
+            top: 479px;
+            left: 561px;
+
+            >:nth-child(1) {
+                width: $huge + $big;
+            }
+
+            >:nth-child(2) {
+                width: $huge + $big;
+            }
+
+            // .helpdesk
+        }
+
+        .factory {
+            top: 399px;
+            left: 400px;
+
+            >:nth-child(1) {
+                width: $huge*3+$big+11;
+
+                >:nth-child(3) {
+                    width: $small*3;
+                    top: 35px;
+                    left: 36px;
+                }
+
+                >:nth-child(4) {
+                    width: $small*3;
+                    top: 45px;
+                    left: 52px;
+                }
+            }
+
+            >:nth-child(2) {
+                width: $huge*4;
+
+
+            }
+
+            >:nth-child(3) {
+                width: $huge*4;
+
+                >:nth-child(3) {
+                    width: $small*3;
+                    top: 139px;
+                    left: 144px;
+                }
+
+                >:nth-child(4) {
+                    width: $small*3;
+                    top: 148px;
+                    left: 160px;
+                }
+            }
+
+            // .factory
+        }
+
+        .digital {
+
+            top: 420px;
+            left: 292px;
+
+            >:nth-child(1) {
+                width: $huge*3+13;
+                top: 5px;
+            }
+
+            >:nth-child(2) {
+                width: $huge*3+13;
+            }
+
+            >:nth-child(3) {
+                width: $huge*3+13;
+            }
+
+            >:nth-child(4) {
+                width: $huge*3+13;
+            }
+
+            // .digital
+        }
+
+        .ecommerce {
+            top: 507px;
+            left: 370px;
+
+            >:nth-child(1) {
+                width: $huge*2+$medium+$small;
+            }
+
+            >:nth-child(2) {
+                width: $huge*2+$medium+$small;
+
+            }
+
+            >:nth-child(3) {
+                width: $huge*2+$medium+$small;
+            }
+
+            >:nth-child(4) {
+                width: $huge*2+$medium+$small;
+            }
+
+            // .ecommerce
+        }
+
+
+    }
+}

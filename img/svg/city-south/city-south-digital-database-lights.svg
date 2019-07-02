@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g id="ead-taric_1_">
+	<g id="haut_1_">
+		<g id="lights_43_">
+			
+				<linearGradient id="_x32__1_" gradientUnits="userSpaceOnUse" x1="-232.7068" y1="57.0536" x2="-232.4262" y2="72.769" gradientTransform="matrix(1 0 0 -1 309.3953 100)">
+				<stop  offset="0" style="stop-color:#89C7A6"/>
+				<stop  offset="0.999" style="stop-color:#6AA65B;stop-opacity:0"/>
+			</linearGradient>
+			<path id="_x32__8_" style="opacity:0.3;fill:url(#_x32__1_);enable-background:new    ;" d="M80.1,40.9l2.5-12.6H71.3l1.8,12.6
+				l0,0c0,0.5,0.4,1,1,1.4c1.4,0.8,3.6,0.8,5,0C79.8,41.9,80.1,41.4,80.1,40.9L80.1,40.9z"/>
+			
+				<linearGradient id="_x31__1_" gradientUnits="userSpaceOnUse" x1="-232.938" y1="56.8057" x2="-232.6257" y2="74.2963" gradientTransform="matrix(1 0 0 -1 309.3953 100)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.1451" style="stop-color:#87C7A8;stop-opacity:0.9711"/>
+				<stop  offset="1" style="stop-color:#99B65F;stop-opacity:0"/>
+			</linearGradient>
+			<path id="_x31__9_" style="opacity:0.35;fill:url(#_x31__1_);enable-background:new    ;" d="M80.1,40.9l0.4-14L73,26.7l0.1,14.2
+				l0,0c0,0.5,0.4,1,1,1.4c1.4,0.8,3.6,0.8,5,0C79.8,41.9,80.1,41.4,80.1,40.9L80.1,40.9z"/>
+		</g>
+	</g>
+</g>
+</svg>

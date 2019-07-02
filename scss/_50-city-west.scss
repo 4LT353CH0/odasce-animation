@@ -1,0 +1,70 @@
+// city west
+.animblock {
+    &__item--city-west {
+        .sign {
+            width: $huge*3+13px;
+            top: 252px;
+            left: 0;
+            // .sign
+        }
+
+        .plane {
+            width: $huge+8;
+            top: 238px;
+            left: 117px;
+            // .plane
+        }
+
+        .digital {
+            top: 349px;
+            left: 129px;
+
+            >:nth-child(1) {
+                width: $huge*2+7;
+            }
+
+            >:nth-child(2) {
+                width: $huge*2+7;
+            }
+
+            >:nth-child(3) {
+                width: $huge*2+7;
+            }
+
+            // .digital
+        }
+
+        .truck {
+            width: $huge*2+20;
+            top: 301px;
+            left: 162px;
+
+            // .truck
+        }
+
+        .cones {
+            top: 322px;
+            left: 97px;
+
+            >:nth-child(1) {
+                width: $big+$small;
+            }
+
+            >:nth-child(2) {
+                width: $big+$small;
+                top: -11px;
+                left: 20px;
+            }
+
+            >:nth-child(3) {
+                width: $big+$small;
+                top: -21px;
+                left: 42px;
+            }
+
+            // .cones
+        }
+
+        // &__item--city-west
+    }
+}

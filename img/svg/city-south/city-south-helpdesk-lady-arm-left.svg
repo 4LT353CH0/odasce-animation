@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<path id="left-hand_2_" style="fill:#FADDDD;" d="M51.4,46.4c0,0-0.3-0.5-0.3-0.7s-0.2-0.1-0.2,0c0,0.2,0.1,0.5-0.2,0.2
+	c-0.4-0.3-0.4-0.7-0.6-0.7c-0.2,0-0.1,0.2,0,0.3s0.3,0.4,0.3,0.5s-0.3,0.5-0.2,0.6c0.1,0.2,0.4,0.3,0.6,0.3c0.1,0,0.3,0.1,0.3,0.1
+	L51.4,46.4z"/>
+<linearGradient id="left-arm_1_" gradientUnits="userSpaceOnUse" x1="-730.3602" y1="50.8405" x2="-685.3314" y2="48.3639" gradientTransform="matrix(1 0 0 1 775.3595 0)">
+	<stop  offset="0" style="stop-color:#E95281"/>
+	<stop  offset="1" style="stop-color:#BF3D62"/>
+</linearGradient>
+<path id="left-arm_11_" style="fill:url(#left-arm_1_);" d="M64.8,50.2c0,0,0.3,0.9-0.7,1.9c-0.9,0.9-2.6,1.7-3.9,1.9
+	c-1.1,0.2-2.7-0.2-3.9-1.3c-2.3-2-5.6-5.6-5.6-5.6s0.2-0.8,1-0.6c1,0.8,4.2,3.6,6.5,5C59.9,52.7,63.5,48.6,64.8,50.2z"/>
+</svg>

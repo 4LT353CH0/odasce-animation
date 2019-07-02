@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<linearGradient id="Cloth_1_" gradientUnits="userSpaceOnUse" x1="-266.5904" y1="-337.9505" x2="-267.0481" y2="-338.4489" gradientTransform="matrix(-21.564 0 0 45.9309 -5744.6685 15565.1211)">
+	<stop  offset="0" style="stop-color:#48A7C1"/>
+	<stop  offset="0.9995" style="stop-color:#225C69"/>
+</linearGradient>
+<path id="Cloth_3_" style="fill:url(#Cloth_1_);" d="M13.8,32.9c-1.5,0.4-2.6,0.5-3.5,0.5c-1.3,0-2.5-8.9-2.5-9.2
+	C7.8,24,7.9,23,8,21l0.2-0.3l0.4-0.1l1.9,0.4l1.2,0.2c0.7,1.5,1.2,3.1,1.5,4.7C13.4,27.6,13.6,29.9,13.8,32.9z"/>
+<path id="Tie_3_" d="M10.4,23.3l0.6,0.6l0.4,7.7l0.7,0.7L13,31c-0.5-2.9-0.8-4.7-1-5.5s-0.4-1.3-0.5-1.7l0.3-0.8l-0.5-0.7l-0.7,0.2
+	v0.8H10.4z"/>
+<linearGradient id="Neck_1_" gradientUnits="userSpaceOnUse" x1="-273.8261" y1="-313.6736" x2="-273.7471" y2="-314.0621" gradientTransform="matrix(-13.5951 0 0 10.9376 -3711.4453 3457.1399)">
+	<stop  offset="0" style="stop-color:#48A7C1"/>
+	<stop  offset="0.9995" style="stop-color:#225C69"/>
+</linearGradient>
+<path id="Neck_3_" style="fill:url(#Neck_1_);" d="M8.7,22.3c0.6,0.8,1.2,1.2,1.8,1.3l0.5-1.2l0.7,0.8c0.2-0.4,0.2-0.7,0.2-1
+	s-0.3-0.8-0.9-1.4l-2.5-0.3l-0.4,0.1L8.7,22.3z"/>
+<g id="costume_1_">
+	<g id="Suit_7_" transform="translate(57.941407, 19.385247)">
+		<g id="Mask_8_">
+			
+				<linearGradient id="path-7_1_" gradientUnits="userSpaceOnUse" x1="-382.9753" y1="-339.7606" x2="-383.5841" y2="-339.9763" gradientTransform="matrix(-21.4889 0 0 57.5882 -8283.6436 19579.9551)">
+				<stop  offset="0" style="stop-color:#48A7C1"/>
+				<stop  offset="0.9995" style="stop-color:#225C69"/>
+			</linearGradient>
+			<path id="path-7_4_" style="fill:url(#path-7_1_);" d="M-51.8,16.3c1.2,0.8,2.2,1.1,3,1c1.2-0.2,1.9-0.9,1.9-2.5
+				c0-1.7-0.1-3.6-0.1-5c0-1.3-0.3-3.2-1.3-5.3c-0.7-1.4-1.2-2.4-1.5-3.2c-1,0.7-1.7,1.1-2,1.4c-0.5,0.4-1.6,2.1-0.7,4.4
+				c0.4,0.9,1.3,2,1.5,4.4C-51,12.5-51.2,14.1-51.8,16.3z"/>
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-50.1" y="1.3" width="3.8" height="10">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="-50.1" y="1.3" width="3.8" height="10" id="mask-8_2_">
+			<g style="filter:url(#Adobe_OpacityMaskFilter);">
+				<path id="path-7_2_" style="fill:#FFFFFF;" d="M-51.8,16.3c1.2,0.8,2.2,1.1,3,1c1.2-0.2,1.9-0.9,1.9-2.5c0-1.7-0.1-3.6-0.1-5
+					c0-1.3-0.3-3.2-1.3-5.3c-0.7-1.4-1.2-2.4-1.5-3.2c-1,0.7-1.7,1.1-2,1.4c-0.5,0.4-1.6,2.1-0.7,4.4c0.4,0.9,1.3,2,1.5,4.4
+					C-51,12.5-51.2,14.1-51.8,16.3z"/>
+			</g>
+		</mask>
+		
+			<linearGradient id="Path-21_1_" gradientUnits="userSpaceOnUse" x1="-389.409" y1="-335.9968" x2="-390.0179" y2="-336.2124" gradientTransform="matrix(-13.638 0 0 35.5023 -5361.5464 11937.4004)">
+			<stop  offset="0" style="stop-color:#48A7C1"/>
+			<stop  offset="0.9995" style="stop-color:#225C69"/>
+		</linearGradient>
+		<path id="Path-21_3_" style="mask:url(#mask-8_2_);fill:url(#Path-21_1_);" d="M-49.9,1.3c-0.3,1.1-0.3,2.1,0.1,3.1l0.6,0.1
+			l-0.5,0.8c2.1,3.2,3.2,5.1,3.3,5.8c0.2,0.7,0.1-1-0.3-5.1l-1.9-3.6L-49.9,1.3z"/>
+	</g>
+	<g id="Suit_6_" transform="translate(45.586284, 19.549529)">
+		<g id="Mask_7_">
+			
+				<linearGradient id="path-9_2_" gradientUnits="userSpaceOnUse" x1="-366.3391" y1="-339.2083" x2="-366.9479" y2="-339.4239" gradientTransform="matrix(-12.0979 0 0 52.763 -4467.0093 17909.9727)">
+				<stop  offset="0" style="stop-color:#48A7C1"/>
+				<stop  offset="0.9995" style="stop-color:#225C69"/>
+			</linearGradient>
+			<path id="path-9_7_" style="fill:url(#path-9_2_);" d="M-31.2,13.1c0.2,1.3,0.2,2.1,0,2.6c-0.3,0.7-1,0.2-1-0.8
+				c0-1.1-0.1-2.7-0.3-3.6c-0.2-1-0.5-2.4-0.5-4s-0.4-3.6-1.4-5.4l0.5-0.5c1.3,0,1.9,0.5,2,1.5c0.1,1.5,0,5.7,0.2,7.3
+				C-31.6,11.2-31.4,12.2-31.2,13.1z"/>
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="-35.1" y="1" width="2.6" height="8.2">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="-35.1" y="1" width="2.6" height="8.2" id="mask-10_1_">
+			<g style="filter:url(#Adobe_OpacityMaskFilter_1_);">
+				<path id="path-9_1_" style="fill:#FFFFFF;" d="M-31.2,13.1c0.2,1.3,0.2,2.1,0,2.6c-0.3,0.7-1,0.2-1-0.8c0-1.1-0.1-2.7-0.3-3.6
+					c-0.2-1-0.5-2.4-0.5-4s-0.4-3.6-1.4-5.4l0.5-0.5c1.3,0,1.9,0.5,2,1.5c0.1,1.5,0,5.7,0.2,7.3C-31.6,11.2-31.4,12.2-31.2,13.1z"/>
+			</g>
+		</mask>
+		
+			<linearGradient id="Path-18_1_" gradientUnits="userSpaceOnUse" x1="-371.4533" y1="-334.1104" x2="-372.0621" y2="-334.3261" gradientTransform="matrix(-9.7527 0 0 29.7686 -3658.4636 9952.9521)">
+			<stop  offset="0" style="stop-color:#48A7C1"/>
+			<stop  offset="0.9995" style="stop-color:#225C69"/>
+		</linearGradient>
+		<path id="Path-18_3_" style="mask:url(#mask-10_1_);fill:url(#Path-18_1_);" d="M-33.9,1c0.6,1.1,0.9,2,1.2,2.4L-33,3.8l0.5,0.2
+			c0.1,2.4-0.1,4.1-0.6,5c-0.5,1-1.1-1.2-1.9-6.5c-0.1-0.9-0.1-1.3-0.1-1.3S-34.8,1.2-33.9,1z"/>
+	</g>
+</g>
+</svg>

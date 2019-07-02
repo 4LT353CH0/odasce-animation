@@ -33,6 +33,25 @@
 		"oAP": "/img/.gitignore",
 		"oF": 1
 		},
+	"/img/exports/artboard@8x-opacity-safety.png": {
+		"ft": 32768,
+		"iS": 171938,
+		"oA": 0,
+		"oAP": "/img/exports/artboard@8x-opacity-safety.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/exports/artboard@8x-opacity.gif": {
+		"ft": 4194304,
+		"iS": 135039,
+		"oA": 0,
+		"oAP": "/img/exports/artboard@8x-opacity.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"/img/exports/artboard@8x-opacity.png": {
 		"ft": 32768,
 		"iS": 579012,
@@ -44,521 +63,2291 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/img/exports/artboard@8x.png": {
-		"ft": 32768,
-		"iS": 592755,
-		"oA": 0,
-		"oAP": "/img/exports/artboard@8x.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/arrows-north-east.ai": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/img/svg/arrows-north-east.ai",
-		"oF": 0
-		},
-	"/img/svg/arrows-north-east.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/img/svg/arrows-north-east.html",
-		"oF": 0
-		},
-	"/img/svg/arrows-north-east.svg": {
+	"/img/svg/arrows/arrows-north-east-box.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/svg/arrows-north-east.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
+		"oA": 0,
+		"oAP": "/img/svg/arrows-north-east-box-opt.svg",
+		"oF": 2,
+		"opt": 1,
+		"plM": 708669603807,
 		"prP": 0
 		},
-	"/img/svg/image1.png": {
-		"ft": 32768,
-		"iS": 220,
+	"/img/svg/arrows/arrows-north-east-one.svg": {
+		"ft": 2097152,
+		"miP": 1,
 		"oA": 0,
-		"oAP": "/img/svg/image1.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image10.png": {
-		"ft": 32768,
-		"iS": 146,
-		"oA": 0,
-		"oAP": "/img/svg/image10.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image11.png": {
-		"ft": 32768,
-		"iS": 142,
-		"oA": 0,
-		"oAP": "/img/svg/image11.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image12.png": {
-		"ft": 32768,
-		"iS": 152,
-		"oA": 0,
-		"oAP": "/img/svg/image12.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image13.png": {
-		"ft": 32768,
-		"iS": 150,
-		"oA": 0,
-		"oAP": "/img/svg/image13.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image14.png": {
-		"ft": 32768,
-		"iS": 160,
-		"oA": 0,
-		"oAP": "/img/svg/image14.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image15.png": {
-		"ft": 32768,
-		"iS": 147,
-		"oA": 0,
-		"oAP": "/img/svg/image15.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image16.png": {
-		"ft": 32768,
-		"iS": 161,
-		"oA": 0,
-		"oAP": "/img/svg/image16.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image17.png": {
-		"ft": 32768,
-		"iS": 150,
-		"oA": 0,
-		"oAP": "/img/svg/image17.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image18.png": {
-		"ft": 32768,
-		"iS": 152,
-		"oA": 0,
-		"oAP": "/img/svg/image18.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image19.png": {
-		"ft": 32768,
-		"iS": 160,
-		"oA": 0,
-		"oAP": "/img/svg/image19.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image2.png": {
-		"ft": 32768,
-		"iS": 196,
-		"oA": 0,
-		"oAP": "/img/svg/image2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image20.png": {
-		"ft": 32768,
-		"iS": 161,
-		"oA": 0,
-		"oAP": "/img/svg/image20.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image21.png": {
-		"ft": 32768,
-		"iS": 147,
-		"oA": 0,
-		"oAP": "/img/svg/image21.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image22.png": {
-		"ft": 32768,
-		"iS": 160,
-		"oA": 0,
-		"oAP": "/img/svg/image22.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image23.png": {
-		"ft": 32768,
-		"iS": 152,
-		"oA": 0,
-		"oAP": "/img/svg/image23.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image24.png": {
-		"ft": 32768,
-		"iS": 148,
-		"oA": 0,
-		"oAP": "/img/svg/image24.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image25.png": {
-		"ft": 32768,
-		"iS": 149,
-		"oA": 0,
-		"oAP": "/img/svg/image25.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image26.png": {
-		"ft": 32768,
-		"iS": 164,
-		"oA": 0,
-		"oAP": "/img/svg/image26.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image27.png": {
-		"ft": 32768,
-		"iS": 143,
-		"oA": 0,
-		"oAP": "/img/svg/image27.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image28.png": {
-		"ft": 32768,
-		"iS": 151,
-		"oA": 0,
-		"oAP": "/img/svg/image28.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image29.png": {
-		"ft": 32768,
-		"iS": 159,
-		"oA": 0,
-		"oAP": "/img/svg/image29.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image3.png": {
-		"ft": 32768,
-		"iS": 208,
-		"oA": 0,
-		"oAP": "/img/svg/image3.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image30.png": {
-		"ft": 32768,
-		"iS": 195,
-		"oA": 0,
-		"oAP": "/img/svg/image30.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image31.png": {
-		"ft": 32768,
-		"iS": 174,
-		"oA": 0,
-		"oAP": "/img/svg/image31.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image32.png": {
-		"ft": 32768,
-		"iS": 185,
-		"oA": 0,
-		"oAP": "/img/svg/image32.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image33.png": {
-		"ft": 32768,
-		"iS": 191,
-		"oA": 0,
-		"oAP": "/img/svg/image33.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image34.png": {
-		"ft": 32768,
-		"iS": 164,
-		"oA": 0,
-		"oAP": "/img/svg/image34.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image35.png": {
-		"ft": 32768,
-		"iS": 158,
-		"oA": 0,
-		"oAP": "/img/svg/image35.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image36.png": {
-		"ft": 32768,
-		"iS": 161,
-		"oA": 0,
-		"oAP": "/img/svg/image36.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image37.png": {
-		"ft": 32768,
-		"iS": 161,
-		"oA": 0,
-		"oAP": "/img/svg/image37.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image38.png": {
-		"ft": 32768,
-		"iS": 159,
-		"oA": 0,
-		"oAP": "/img/svg/image38.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image39.png": {
-		"ft": 32768,
-		"iS": 153,
-		"oA": 0,
-		"oAP": "/img/svg/image39.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image4.png": {
-		"ft": 32768,
-		"iS": 149,
-		"oA": 0,
-		"oAP": "/img/svg/image4.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image40.png": {
-		"ft": 32768,
-		"iS": 146,
-		"oA": 0,
-		"oAP": "/img/svg/image40.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image41.png": {
-		"ft": 32768,
-		"iS": 152,
-		"oA": 0,
-		"oAP": "/img/svg/image41.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/svg/image42.png": {
-		"ft": 32768,
-		"iS": 162,
-		"oA": 0,
-		"oAP": "/img/svg/image42.png",
-		"oF": 0,
-		"oIPL": 1,
+		"oAP": "/img/svg/arrows-north-east-one-opt.svg",
+		"oF": 2,
 		"opt": 1,
-		"oT": 1,
-		"q": 100
+		"plM": 708669603807,
+		"prP": 1
 		},
-	"/img/svg/image43.png": {
-		"ft": 32768,
-		"iS": 160,
+	"/img/svg/arrows/arrows-north-east-panel.svg": {
+		"ft": 2097152,
+		"miP": 0,
 		"oA": 0,
-		"oAP": "/img/svg/image43.png",
-		"oF": 0,
-		"oIPL": 1,
+		"oAP": "/img/svg/arrows-north-east-panel-opt.svg",
+		"oF": 2,
 		"opt": 1,
-		"oT": 1,
-		"q": 100
+		"plM": 708669603807,
+		"prP": 0
 		},
-	"/img/svg/image5.png": {
-		"ft": 32768,
-		"iS": 165,
+	"/img/svg/arrows/arrows-north-east-zero.svg": {
+		"ft": 2097152,
+		"miP": 0,
 		"oA": 0,
-		"oAP": "/img/svg/image5.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"oAP": "/img/svg/arrows-north-east-zero-opt.svg",
+		"oF": 2,
+		"opt": 1,
+		"plM": 708669603807,
+		"prP": 0
 		},
-	"/img/svg/image6.png": {
-		"ft": 32768,
-		"iS": 140,
+	"/img/svg/arrows/arrows-north-west-box.svg": {
+		"ft": 2097152,
+		"miP": 0,
 		"oA": 0,
-		"oAP": "/img/svg/image6.png",
+		"oAP": "/img/svg/arrows-north-west-box-opt.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"plM": 708669603807,
+		"prP": 0
 		},
-	"/img/svg/image7.png": {
-		"ft": 32768,
-		"iS": 141,
+	"/img/svg/arrows/arrows-north-west-one.svg": {
+		"ft": 2097152,
+		"miP": 0,
 		"oA": 0,
-		"oAP": "/img/svg/image7.png",
+		"oAP": "/img/svg/arrows-north-west-one-opt.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"plM": 708669603807,
+		"prP": 0
 		},
-	"/img/svg/image8.png": {
-		"ft": 32768,
-		"iS": 161,
+	"/img/svg/arrows/arrows-north-west-panel.svg": {
+		"ft": 2097152,
+		"miP": 0,
 		"oA": 0,
-		"oAP": "/img/svg/image8.png",
+		"oAP": "/img/svg/arrows-north-west-panel-opt.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"plM": 708669603807,
+		"prP": 0
 		},
-	"/img/svg/image9.png": {
-		"ft": 32768,
-		"iS": 156,
+	"/img/svg/arrows/arrows-north-west-zero.svg": {
+		"ft": 2097152,
+		"miP": 0,
 		"oA": 0,
-		"oAP": "/img/svg/image9.png",
+		"oAP": "/img/svg/arrows-north-west-zero-opt.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/arrows/arrows-south-east-box.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/arrows-south-east-box-opt.svg",
+		"oF": 0,
+		"opt": 1,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/arrows/arrows-south-west-box.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/arrows-south-west-box-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-boat-flag.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-boat-flag-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-boat-ship.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-boat-ship-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-boat-smoke-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-boat-smoke-1-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-boat-smoke-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-boat-smoke-2-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-boat-water.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-boat-water-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-cone-base.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-cone-base-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-cone-top.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-cone-top-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-man-arm-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-man-arm-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-man-arm-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-man-arm-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-man-cap.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-man-cap-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-man-head.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-man-head-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-man-leg-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-man-leg-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-man-leg-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-man-leg-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-man-shadow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-man-shadow-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-man-torso.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-man-torso-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-statistics-pane-1-text.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-statistics-pane-1-text-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-statistics-pane-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-statistics-pane-1-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-statistics-pane-2-tee.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-statistics-pane-2-tee-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-statistics-pane-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-statistics-pane-2-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-statistics-pane-3-pants.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-statistics-pane-3-pants-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-statistics-pane-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-statistics-pane-3-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-statistics-pane-4-shoes.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-statistics-pane-4-shoes-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-digital-statistics-pane-4.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-digital-statistics-pane-4-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-organisation-eu-base.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-organisation-eu-base-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-organisation-eu-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-organisation-eu-logo-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-organisation-eu-middle.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-organisation-eu-middle-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-organisation-iso-base.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-organisation-iso-base-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-organisation-iso-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-organisation-iso-logo-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-organisation-iso-middle.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-organisation-iso-middle-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-organisation-truck-back.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-organisation-truck-back-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-organisation-truck-front.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-organisation-truck-front-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-organisation-who-base.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-organisation-who-base-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-organisation-who-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-organisation-who-logo-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-organisation-who-middle.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-organisation-who-middle-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-plane-back-engine-flame.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-plane-back-engine-flame-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-plane-back-engine.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-plane-back-engine-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-plane-front.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-plane-front-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-sign-customs-bar.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-sign-customs-bar-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-sign-customs-base.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-sign-customs-base-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-sign-customs-pole.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-sign-customs-pole-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-sign-customs-sign.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-sign-customs-sign-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-sign-customs-text.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-sign-customs-text-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-truck-back.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-truck-back-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-east/city-east-truck-front.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-east-truck-front-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-box-in-small.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-box-in-small-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-box-out-small.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-box-out-small-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-computer.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-digital-circuit-computer-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-database-base.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-digital-circuit-database-base-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-database-light.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-digital-circuit-database-light-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-database-panel.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-digital-circuit-database-panel-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-man-arm-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-digital-circuit-man-arm-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-man-hair.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-digital-circuit-man-hair-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-man-hand-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-digital-circuit-man-hand-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-man-head.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-digital-circuit-man-head-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-man-leg-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-digital-circuit-man-leg-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-man-leg-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-digital-circuit-man-leg-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-man-shadow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-digital-circuit-man-shadow-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-man-torso.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-digital-circuit-man-torso-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-pipeline.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-digital-circuit-pipeline-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-base.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-base-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-clothes-pants.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-clothes-pants-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-clothes-shoes.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-clothes-shoes-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-clothes-tee.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-clothes-tee-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-computer-coin-shade.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-computer-coin-shade-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-computer-coin.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-computer-coin-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-computer.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-computer-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-lady-arm-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-lady-arm-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-lady-arm-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-lady-arm-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-lady-hair.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-lady-hair-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-lady-head.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-lady-head-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-lady-leg-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-lady-leg-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-lady-leg-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-lady-leg-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-lady-robe.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-lady-robe-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-man-arm-left-opt.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-man-arm-left-opt-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-man-arm-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-man-arm-left-opt.svg",
+		"oF": 0,
+		"opt": 1,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-man-arm-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-man-arm-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-man-foot.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-man-foot-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-man-head.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-man-head-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-man-legs.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-man-legs-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-man-torso.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-man-torso-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-ecommerce-man.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-ecommerce-man-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-factory-chimney-smoke.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-factory-chimney-smoke-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-factory-chimney.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-factory-chimney-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-factory-statistics-panel-graph-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-factory-statistics-panel-graph-1-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-factory-statistics-panel-graph-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-factory-statistics-panel-graph-2-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-factory-statistics-panel-graph-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-factory-statistics-panel-graph-3-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-factory-statistics-panel.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-factory-statistics-panel-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-factory.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-factory-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-fenwick-back.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-fenwick-back-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-fenwick-box.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-fenwick-box-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-fenwick-front.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-fenwick-front-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-fenwick-light.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-fenwick-light-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-fenwick-worker-arm-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-fenwick-worker-arm-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-fenwick-worker-arm-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-fenwick-worker-arm-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-fenwick-worker-cap.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-fenwick-worker-cap-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-fenwick-worker-hair.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-fenwick-worker-hair-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-fenwick-worker-head.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-fenwick-worker-head-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-fenwick-worker-torso.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-fenwick-worker-torso-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-fenwick-worker.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-fenwick-worker-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-fenwick.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-fenwick-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-box-closed.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-box-closed-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-box-open.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-box-open-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-clothes-shoes-base.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-clothes-shoes-base-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-clothes-shoes-light.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-clothes-shoes-light-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-clothes-shoes-shoes.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-clothes-shoes-shoes-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-clothes-tee-base.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-clothes-tee-base-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-clothes-tee-light.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-clothes-tee-light-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-clothes-tee-tee.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-clothes-tee-tee-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-lady-arm-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-lady-arm-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-lady-arm-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-lady-arm-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-lady-document.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-lady-document-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-lady-hair.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-lady-hair-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-lady-head.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-lady-head-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-lady-leg-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-lady-leg-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-lady-leg-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-lady-leg-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-lady-robe.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-lady-robe-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-lady-shadow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-lady-shadow-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-warehouse-lady-torso.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-north-warehouse-lady-torso-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-box-in.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-box-in-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-box-out.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-box-out-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-administration-desk-icon-bar.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-administration-desk-icon-bar-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-administration-desk-icon-cloud.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-administration-desk-icon-cloud-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-administration-desk.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-administration-desk-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-administration-man-arm-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-administration-man-arm-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-administration-man-feet.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-administration-man-feet-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-administration-man-hair.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-administration-man-hair-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-administration-man-hand-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-administration-man-hand-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-administration-man-head.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-administration-man-head-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-administration-man-shadow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-administration-man-shadow-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-administration-man-torso.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-administration-man-torso-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-database-base.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-database-base-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-database-content-plate.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-database-content-plate-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-database-content-text.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-database-content-text-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-database-lights.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-database-lights-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-sendoff-base.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-sendoff-base-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-sendoff-letter-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-sendoff-letter-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-sendoff-letter-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-sendoff-letter-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-sendoff-pipeline-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-sendoff-pipeline-1-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-sendoff-pipeline-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-digital-sendoff-pipeline-2-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-base.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-base-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-card.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-card-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-clothes-pants.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-clothes-pants-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-clothes-shoes.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-clothes-shoes-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-clothes-tee.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-clothes-tee-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-computer-clothes.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-computer-clothes-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-computer.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-computer-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-lady-lady-arm-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-lady-lady-arm-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-lady-lady-arm-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-lady-lady-arm-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-lady-lady-hair.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-lady-lady-hair-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-lady-lady-head.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-lady-lady-head-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-lady-lady-leg-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-lady-lady-leg-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-lady-lady-leg-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-lady-lady-leg-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-lady-lady-robe.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-lady-lady-robe-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-lady-lady-shadow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-lady-lady-shadow-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-lady-lady-throat.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-lady-lady-throat-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-lady-lady-torso.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-lady-lady-torso-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-ecommerce-lady-trolley.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-ecommerce-lady-trolley-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-factory-chimney-smoke.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-factory-chimney-smoke-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-factory-chimney.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-factory-chimney-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-factory-mat-mouvement.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-factory-mat-mouvement-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-factory-mat-north-mouvement.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-factory-mat-north-mouvement-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-factory-mat-north.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-factory-mat-north-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-factory-mat.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-factory-mat-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-factory.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-factory-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-helpdesk-desk.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-helpdesk-desk-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-helpdesk-lady-arm-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-helpdesk-lady-arm-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-helpdesk-lady-arm-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-helpdesk-lady-arm-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-helpdesk-lady-foot-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-helpdesk-lady-foot-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-helpdesk-lady-foot-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-helpdesk-lady-foot-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-helpdesk-lady-hair.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-helpdesk-lady-hair-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-helpdesk-lady-head.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-helpdesk-lady-head-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-helpdesk-lady-legs.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-helpdesk-lady-legs-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-helpdesk-lady-shadow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-helpdesk-lady-shadow-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-helpdesk-lady-torso.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-helpdesk-lady-torso-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-helpdesk-panel-bars.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-helpdesk-panel-bars-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-helpdesk-panel.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-helpdesk-panel-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-storage-worker-arm-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-storage-worker-arm-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-storage-worker-arm-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-storage-worker-arm-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-storage-worker-body.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-storage-worker-body-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-storage-worker-box.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-storage-worker-box-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-storage-worker-cap.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-storage-worker-cap-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-storage-worker-head.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-storage-worker-head-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-storage-worker-pallet-box-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-storage-worker-pallet-box-1-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-storage-worker-pallet-box-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-storage-worker-pallet-box-2-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-storage-worker-pallet.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-south-storage-worker-pallet-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-man-arms.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-man-arms-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-man-cap.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-man-cap-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-man-head.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-man-head-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-man-leg-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-man-leg-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-man-leg-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-man-leg-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-man-shadow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-man-shadow-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-man-torso.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-man-torso-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-statistics-panel-1-content.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-statistics-panel-1-content-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-statistics-panel-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-statistics-panel-1-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-statistics-panel-2-content.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-statistics-panel-2-content-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-statistics-panel-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-statistics-panel-2-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-statistics-panel-3-content.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-statistics-panel-3-content-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-statistics-panel-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-statistics-panel-3-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-woman-arm-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-woman-arm-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-woman-arm-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-woman-arm-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-woman-hair.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-woman-hair-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-woman-head.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-woman-head-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-woman-leg-left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-woman-leg-left-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-woman-leg-right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-woman-leg-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-woman-robe.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-woman-robe-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-woman-shadow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-woman-shadow-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-digital-woman-torso.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-digital-woman-torso-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-plane-back-engine.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-plane-back-engine-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-plane-back-flame.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-plane-back-flame-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-plane-back.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-plane-back-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-plane-front.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-plane-front-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-sign-bar.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-sign-bar-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-sign-base.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-sign-base-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-sign-plate.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-sign-plate-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-sign-pole.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-sign-pole-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-sign-text.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-sign-text-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-truck-back.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-truck-back-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
+		},
+	"/img/svg/city-west/city-west-truck-front.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/img/svg/city-west-truck-front-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669603807,
+		"prP": 0
 		},
 	"/index.html": {
-		"cB": 0,
+		"cB": 1,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/index.html",
 		"oF": 1
 		},
@@ -570,6 +2359,17 @@
 		"oA": 1,
 		"oAP": "/js/animations/arrows-north-east-min.js",
 		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/animations/schoolyard.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/js/animations/schoolyard-min.js",
+		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
@@ -633,6 +2433,92 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/schoolyard.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/schoolyard.html",
+		"oF": 0
+		},
+	"/scss/_0-variables.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/css/_0-variables.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/scss/_10-arrows.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/css/_10-arrows.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/scss/_20-city-north.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/css/_20-city-north.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/scss/_30-city-east.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/css/_30-city-east.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/scss/_40-city-south.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/css/_40-city-south.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/scss/_50-city-west.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/css/_50-city-west.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"/scss/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -657,12 +2543,20 @@
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 1,
+		"ma": 0,
 		"oA": 0,
 		"oAP": "/scss/main.css",
-		"oF": 2,
+		"oF": 3,
 		"oS": 3,
 		"uL": 1
+		},
+	"/source-learn-gsap/GreenSock-Cheatsheet-4.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-learn-gsap/GreenSock-Cheatsheet-4.pdf",
+		"oF": 0
 		}
 	},
 "hooks": [
@@ -2691,13 +4585,13 @@
 		"shouldRunBless": 0
 		},
 	"languageDefaultsSVG": {
-		"autoOutputAction": 2,
-		"autoOutputPathFilenamePattern": "*.svg",
-		"autoOutputPathRelativePath": "",
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-opt.svg",
+		"autoOutputPathRelativePath": "../",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
-		"pluginMask": 3758088159
+		"autoOutputPathStyle": 2,
+		"pluginMask": 708669603807
 		},
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,

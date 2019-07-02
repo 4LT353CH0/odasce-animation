@@ -1,0 +1,109 @@
+// city east
+.animblock {
+    &__item--city-east {
+        .sign {
+            width: $huge*3+2;
+            top: 185px;
+            left: 672px;
+            // .sign
+        }
+
+        .plane {
+            >div:nth-child(1) {
+                width: $huge+$small*3;
+                top: 193px;
+                left: 645px;
+            }
+
+            >div:nth-child(2) {
+                width: $huge;
+                top: 209px;
+                left: 617px;
+            }
+
+            // .plane
+        }
+
+        .organisation {
+            top: 233px;
+            left: 495px;
+
+            &__who {
+                width: $huge*3+21px;
+            }
+
+            &__iso {
+                width: $huge*3+21px;
+            }
+
+            &__eu {
+                width: $huge*3+21px;
+            }
+
+            // .organisation
+        }
+
+
+        .digital-statistics {
+            top: 235px;
+            left: 649px;
+
+            &__man {
+                width: $huge*2-11;
+            }
+
+            &__content {
+                width: $huge*2-15;
+            }
+
+            // .digital-statistics
+        }
+
+        .cones {
+            >:nth-child(1) {
+                width: $big+5;
+                top: 330px;
+                left: 648px;
+            }
+
+            >:nth-child(2) {
+                width: $big+5;
+                top: 329px;
+                left: 679px;
+            }
+
+            >:nth-child(3) {
+                width: $big+5;
+                top: 328px;
+                left: 709px;
+
+            }
+
+            // .cones
+
+        }
+
+        .boat {
+            top: 319px;
+            left: 686px;
+
+            >:nth-child(1) {
+                width: $huge*2-7px;
+            }
+
+            >:nth-child(2) {
+                width: $huge*2-7px;
+            }
+
+            // .boat
+        }
+
+        .truck {
+            width: $huge*2 - $small;
+            top: 247px;
+            left: 588px;
+        }
+
+        //&__item--city-east 
+    }
+}

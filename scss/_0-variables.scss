@@ -1,0 +1,13 @@
+// variables
+$small : 5px;
+$medium : $small*2;
+$big:$small*5;
+$huge:$small *10;
+
+/////
+%pAbs {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+}
