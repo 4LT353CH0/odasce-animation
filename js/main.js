@@ -729,8 +729,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
         });
         
     }
-    -------------------------------- COMMENT TO DELETE */
-
+    
     function ecommerceLoop() {
         var ecomNorth = document.getElementsByClassName('ecommerce')[0].children;
         var ecomSouth = document.getElementsByClassName('animblock__item--city-south')[0].children[4].children;
@@ -808,11 +807,12 @@ document.addEventListener("DOMContentLoaded", (event) => {
         });
         // ecomSouth
         //card
-        TweenMax.to(ecomSouth[1], 5, {
+        TweenMax.to(ecomSouth[1], 15, {
             opacity:0,
             left: 0,
             top:0,
-            repeat: -1
+            repeat: -1,
+            yoyo: true
         });
         //clothes
         TweenMax.to(ecomSouth[2].children[1], randomNumber2, {
@@ -832,6 +832,12 @@ document.addEventListener("DOMContentLoaded", (event) => {
             left:1,
             repeat: -1
         });
+        TweenMax.to(ecomSouth[3], 5, {
+            top:5,
+            left:-15,
+            repeat: -1,
+            yoyo: true
+        });
         TweenMax.to(ecomSouth[3].children[4], randomNumber3, {
             left:1,
             repeat: -1
@@ -850,7 +856,191 @@ document.addEventListener("DOMContentLoaded", (event) => {
         });
         
     }
-
+    function warehouseLoop() {
+        var warehouseNorth = document.getElementsByClassName('warehouse')[0];
+        var fenwickNorth = document.getElementsByClassName('fenwick');
+        var storageWorkerSouth = document.getElementsByClassName('storage-worker');
+        // console.log(storageWorkerSouth[0]);
+        // Woman
+        TweenMax.to(warehouseNorth.children[0], 5, {
+            left: 5,
+            top: 7,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(warehouseNorth.children[0].children[0], 3, {
+            left: -1,
+            repeat: -1
+        });
+        TweenMax.to(warehouseNorth.children[0].children[3], 2, {
+            left: 1,
+            repeat: -1
+        });
+        TweenMax.to(warehouseNorth.children[0].children[4], 4, {
+            left: 1,
+            repeat: -1
+        });
+        TweenMax.to(warehouseNorth.children[0].children[5], 3, {
+            left: 1,
+            repeat: -1
+        });
+        TweenMax.to(warehouseNorth.children[0].children[6], 3, {
+            left: 1,
+            repeat: -1
+        });
+        TweenMax.to(warehouseNorth.children[0].children[7], 3, {
+            left: -1,
+            repeat: -1
+        });
+        TweenMax.to(warehouseNorth.children[0].children[8], 3, {
+            left: -1,
+            repeat: -1
+        });
+        TweenMax.to(warehouseNorth.children[0].children[9], 3, {
+            left: -1,
+            repeat: -1
+        });
+        // clothes
+        TweenMax.to(warehouseNorth.children[1].children[0], 0.2, {
+            left: 1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(warehouseNorth.children[1].children[1], 8, {
+            opacity: 0,
+            repeat: -1
+        });
+        TweenMax.to(warehouseNorth.children[1].children[2], 4, {
+            opacity: 0,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(warehouseNorth.children[1].children[3], 0.21, {
+            left: -1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(warehouseNorth.children[1].children[4], 6, {
+            opacity: 0,
+            repeat: -1
+        });
+        TweenMax.to(warehouseNorth.children[1].children[5], 3, {
+            opacity: 0,
+            repeat: -1,
+            yoyo: true
+        });
+        // fenswick
+        TweenMax.to(fenwickNorth[0], 4, {
+            top: 138,
+            left: 242,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(fenwickNorth[0].children[0], 0.01, {
+            top:1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(fenwickNorth[0].children[1], 0.01, {
+            top:1,
+            repeat: -1,
+            yoyo: true
+        });
+        // storage worker south
+        TweenMax.to(storageWorkerSouth[0].children[0], 10, {
+            top: 25,
+            left: -20,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(storageWorkerSouth[0].children[0].children[1], 1, {
+            top: 1,
+            left: 0,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(storageWorkerSouth[0].children[0].children[5], 1, {
+            top: 1,
+            left: 0,
+            repeat: -1,
+            yoyo: true
+        });
+    }
+    function digitalWorkers() {
+        // man north
+        var digitalManNorth = document.getElementsByClassName('digital-circuit__man');
+        var digitalManSouth = document.getElementsByClassName('digital--south');
+        var helpdeskSouth = document.getElementsByClassName('helpdesk');
+        console.log(helpdeskSouth[0].children[0].children[1]); 
+        TweenMax.to(digitalManNorth[0].children[1], 1, {
+            left: -1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(digitalManNorth[0].children[2], 1, {
+            left: -1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(digitalManNorth[0].children[3], 3, {
+            left: -1,
+            repeat: -1,
+            yoyo: true
+        });
+        //man south
+        // 3 4
+        TweenMax.to(digitalManSouth[0].children[0].children[3], 2, {
+            opacity:0,
+            left: 20,
+            top: -20,
+            repeat: -1
+        });
+        TweenMax.to(digitalManSouth[0].children[0].children[4], 1.33, {
+            opacity:0,
+            left: 25,
+            top: -20,
+            repeat: -1
+        });
+        TweenMax.to(digitalManSouth[0].children[2].children[2], 3.33, {
+            left: 1,
+            repeat: -1
+        });
+        TweenMax.to(digitalManSouth[0].children[2].children[3], 3.33, {
+            left: 1,
+            repeat: -1
+        });
+        TweenMax.to(digitalManSouth[0].children[2].children[6], 1.33, {
+            top: 1,
+            left: -1,
+            repeat: -1
+        });
+        // woman south helpdesk
+        TweenMax.to(helpdeskSouth[0].children[0].children[2], 2, {
+            opacity:0,
+            left: -1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(helpdeskSouth[0].children[1].children[2], 1.33, {
+            left: -1,
+            top:-1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(helpdeskSouth[0].children[1].children[3], 2, {
+            left: -1,
+            top:1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(helpdeskSouth[0].children[1].children[4], 2, {
+            left: -1,
+            top:1,
+            repeat: -1,
+            yoyo: true
+        });
+    }
+    -------------------------------- COMMENT TO DELETE */
     /* -------------------------------- COMMENT TO DELETE 
     smallPanel();
     mediumPanel();
@@ -865,8 +1055,9 @@ document.addEventListener("DOMContentLoaded", (event) => {
     southFactoryLoop();
     digitalServiceLoop();
     databaseLoop();
-    -------------------------------- COMMENT TO DELETE */
     ecommerceLoop();
-
-
+    warehouseLoop();
+    //
+    digitalWorkers();
+    -------------------------------- COMMENT TO DELETE */
 });

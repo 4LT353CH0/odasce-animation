@@ -713,6 +713,76 @@
 		"plM": 708669583327,
 		"prP": 0
 		},
+	"/img/svg/city-north/city-north-digital-circuit-pipeline-information-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/img/svg/city-north/city-north-digital-circuit-pipeline-information-1-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669583327,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-pipeline-information-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/img/svg/city-north/city-north-digital-circuit-pipeline-information-2-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669583327,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-pipeline-information-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/img/svg/city-north/city-north-digital-circuit-pipeline-information-3-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669583327,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-pipeline-information-4.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/img/svg/city-north/city-north-digital-circuit-pipeline-information-4-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669583327,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-pipeline-information-5.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/img/svg/city-north/city-north-digital-circuit-pipeline-information-5-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669583327,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-pipeline-information-6.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/img/svg/city-north/city-north-digital-circuit-pipeline-information-6-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669583327,
+		"prP": 0
+		},
+	"/img/svg/city-north/city-north-digital-circuit-pipeline-information.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/img/svg/city-north/city-north-digital-circuit-pipeline-information-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669583327,
+		"prP": 0
+		},
 	"/img/svg/city-north/city-north-digital-circuit-pipeline.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -1498,6 +1568,56 @@
 		"miP": 0,
 		"oA": 1,
 		"oAP": "/img/svg/city-south/city-south-digital-sendoff-letter-right-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669583327,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-1-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669583327,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-2-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669583327,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-3-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669583327,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-4.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-4-opt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 708669583327,
+		"prP": 0
+		},
+	"/img/svg/city-south/city-south-digital-sendoff-pipeline-1-information.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-opt.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 708669583327,
