@@ -9,16 +9,17 @@
         }
 
         .plane {
+            top: 103px;
+            left: 625px;
+
             >div:nth-child(1) {
                 width: $huge+$small*3;
-                top: 193px;
-                left: 645px;
             }
 
             >div:nth-child(2) {
                 width: $huge;
-                top: 209px;
-                left: 617px;
+                top: 30px;
+                left: -20px;
             }
 
             // .plane
@@ -30,14 +31,29 @@
 
             &__who {
                 width: $huge*3+21px;
+
+                >:nth-child(3) {
+                    top: -20px;
+                    opacity: 0;
+                }
             }
 
             &__iso {
                 width: $huge*3+21px;
+
+                >:nth-child(3) {
+                    top: -20px;
+                    opacity: 0;
+                }
             }
 
             &__eu {
                 width: $huge*3+21px;
+
+                >:nth-child(3) {
+                    top: -20px;
+                    opacity: 0;
+                }
             }
 
             // .organisation
@@ -84,8 +100,8 @@
         }
 
         .boat {
-            top: 319px;
-            left: 686px;
+            top: 309px;
+            left: 716px;
 
             >:nth-child(1) {
                 width: $huge*2-7px;
@@ -100,8 +116,8 @@
 
         .truck {
             width: $huge*2 - $small;
-            top: 247px;
-            left: 588px;
+            top: 197px;
+            left: 518px;
         }
 
         //&__item--city-east 

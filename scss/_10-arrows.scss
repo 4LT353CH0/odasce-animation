@@ -7,24 +7,28 @@
             display: block;
             left: 560px;
             top: 110px;
+            z-index: 4;
         }
 
         &--arr-sw {
             display: block;
             left: 310px;
             top: 375px;
+            z-index: 4;
         }
 
         &--arr-nw {
             display: block;
             left: 200px;
             top: 160px;
+            z-index: 4;
         }
 
         &--arr-se {
             display: block;
             left: 620px;
             top: 370px;
+            z-index: 4;
         }
     }
 }

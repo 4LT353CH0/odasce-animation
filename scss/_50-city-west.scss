@@ -10,8 +10,12 @@
 
         .plane {
             width: $huge+8;
-            top: 238px;
-            left: 117px;
+            top: 190px;
+            left: 50px;
+            z-index: 999;
+            & *{
+                z-index: 999;
+            }
             // .plane
         }
 
@@ -36,8 +40,8 @@
 
         .truck {
             width: $huge*2+20;
-            top: 301px;
-            left: 162px;
+            top: 331px;
+            left: 192px;
 
             // .truck
         }

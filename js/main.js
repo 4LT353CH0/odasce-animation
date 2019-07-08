@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
     // arrow vars
     //
     // arrows north-east
-    /* -------------------------------- COMMENT TO DELETE 
+
     var getCl_Arr_NE_1 = document.getElementsByClassName('animblock__item--arr-ne')[0].children[0].children[0].children;
     var getCl_Arr_NE_2 = document.getElementsByClassName('animblock__item--arr-ne')[0].children[0].children[1].children;
     var getCl_Arr_NE_3 = document.getElementsByClassName('animblock__item--arr-ne')[0].children[0].children[2].children;
@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
     var getCl_Arr_SE_3 = document.getElementsByClassName('animblock__item--arr-se')[0].children[0].children[2].children;
     var getCl_Arr_SE_4 = document.getElementsByClassName('animblock__item--arr-se')[0].children[0].children[3].children;
     // arrows south-east
-     -------------------------------- COMMENT TO DELETE */
+
     //
     // factory vars
     //
@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
     //
     // Arrow loop features
     //
-    /* -------------------------------- COMMENT TO DELETE
+
     function smallPanel() {
         // as long as there are children, count it through
         for (var i = 0; i < getCl_Arr_NE_1.length; i++) {
@@ -376,7 +376,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
         // binary
     }
-    
+
     //
     // /Arrow loop features
     //
@@ -387,12 +387,12 @@ document.addEventListener("DOMContentLoaded", (event) => {
         var planes = document.getElementsByClassName('plane')[0].children;
         var plane = document.getElementsByClassName('animblock__item--city-west')[0].children[1];
         var randomNumber = (Math.random() * (2.00) + 1.50).toFixed(2);
-            // console.log(plane.children[2]);
-        
-        
+        // console.log(plane.children[2]);
+
+
         // two planes east
         for (var i = 0; i < planes.length; i++) {
-            
+
             planes[i].children[1].style.left = '-4px';
             planes[i].children[1].style.top = '-2px';
             // jet
@@ -429,12 +429,32 @@ document.addEventListener("DOMContentLoaded", (event) => {
             top: -2,
             repeat: -1
         });
+        TweenMax.to(plane, 20, {
+            top: 140,
+            left: 150,
+            repeat: -1
+        });
+        TweenMax.to(document.getElementsByClassName('plane')[0], 25, {
+            top: 153,
+            left: 695,
+            repeat: -1
+        });
+        /*
+         top: 193px;
+                left: 645px;
+            }
+
+            >div:nth-child(2) {
+                width: $huge;
+                top: 209px;
+                left: 617px;
+                */ 
     }
-    
+
     function truckLoop() {
         var truckOne = document.getElementsByClassName('truck')[0].children;
         var truckTwo = document.getElementsByClassName('animblock__item--city-west')[0].children[3].children;
-        
+
         for (var i = 0; i < truckOne.length; i++) {
             var randomNumber = (Math.random() * (-2.5 - 2.5) + 2.5).toFixed(2);
             TweenMax.to(truckOne[0], 1, {
@@ -458,180 +478,192 @@ document.addEventListener("DOMContentLoaded", (event) => {
                 repeat: -1
             });
         }
+        TweenMax.to(document.getElementsByClassName('animblock__item--city-west')[0].children[3], 15, {
+            top: 291,
+            left: 152,
+            repeat: -1
+        });
+        TweenMax.to(document.getElementsByClassName('truck')[0], 15, {
+            top: 247,
+            left: 588,
+            repeat: -1
+        });
+        
+
     }
-    
+
     function signLoop() {
         var randomNumber = (Math.random() * (-2.5 - 2.5) + 2.5).toFixed(2);
         var sign = document.getElementsByClassName('sign')[0].children;
         // for (var i = 0; i < sign.length; i++) {
-            //     TweenMax.to(sign[4], 1.33, {
-                //         left: randomNumber,
-                //         left: 3,
-                //         left: -3,
-                //         repeat: -1
-                //     });
-                // }
-            }
-            
-            function northFactoryLoop() {
-                // var randomNumber = (Math.random() * (1 - 1) + 2.5).toFixed(2);
-                
-                for (var i = 0; i < factoryNorth.length; i++) {
-                        //console.log(factoryNorth);
-                    if (i > 0 && i < 4) {
-                        // smoke
-                        var randomNumber = (Math.random() * (2.00 - 1.00) + 1.00).toFixed(2);
-                        TweenMax.to(factoryNorth[i].children[1], randomNumber, {
-                            opacity: 1,
-                            top: -30,
-                            width: 30,
-                            left: -6,
-                            repeat: -1
-                        });
-                        // statistics
-                    } else if (i >= 6 && i <= factoryNorth.length) {
-                        var randomNumber = (Math.random() * (2.00 - 1.00) + 0.00).toFixed(2);
-                        TweenMax.to(factoryNorth[i].children[3], i * 1.33, {
-                            opacity: randomNumber,
-                            repeat: -1
-                        });
-                        TweenMax.to(factoryNorth[i].children[4], i, {
-                            opacity: randomNumber,
-                            repeat: -1
-                        });
-                        TweenMax.to(factoryNorth[i].children[5], i * 1.66, {
-                            opacity: randomNumber,
-                            repeat: -1
-                        });
-                        // boxes
-                    } else if (i > 3 && i < 6) {
-                        var randomNumber = (Math.random() * (1.00 - 1.00) + 0).toFixed(2);
-                        TweenMax.to(factoryNorth[4].children[0], 12, {
-                            x: 13,
-                            y: -6,
-                            repeat: -1
-                        });
-                        TweenMax.to(factoryNorth[5].children[0], 10, {
-                            x: 31,
-                            y: 18,
-                            repeat: -1
-                        });
-                    }
-                    
-                }
-            }
-            
-            function southFactoryLoop() {
-                    console.log(factorySouth[0]); // mat left
-                    // console.log(); // mat left
-                    // console.log(factorySouth[1].children.length); // smoke + factory
-                    // console.log(factorySouth[1].children.length); // smoke + factory
-                    // console.log(factorySouth[2]); // mat right
-                    // console.log(factorySouth.children[1  ].length); // mat right
-                    // console.log(factorySouth[1].children[1].children[1]);
-                for (var i = 0; i < factorySouth[1].children.length; i++) {
-                    if (i > 0 && i < 4) {
-                        // smoke
-                        var randomNumber = (Math.random() * (-4.00 - 1.00) + 1.00).toFixed(2);
-                        var randomNumberSmoke = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
-                        TweenMax.to(factorySouth[1].children[i].children[1], randomNumberSmoke / 2, {
-                            top: -10,
-                            left: randomNumber,
-                            repeat: -1
-                        });
-                    }
-                } // for
-                TweenMax.to(factorySouth[0].children[2], 8, {
-                    top: 50,
-                    left: 60,
-                    repeat: -1
-                });
-                TweenMax.to(factorySouth[2].children[2], 5, {
-                    top: 150,
-                    left: 164,
-                    repeat: -1
-                });
-            } // southFactoryLoop
-            function digitalServiceLoop() {
-                var randomNumber;
-                var panelsNorth = document.getElementsByClassName("digital-circuit__information")[0].children;
-                var panelsSouth = document.getElementsByClassName("digital--south")[0].children[4].children;
-                var panelNorth;
-                var panelSouth;
-                
-                for (var i = 0; i < panelsNorth.length; i++) {
-                    // var panel = panels.children[i]; 
-                    // console.log(i);
+        //     TweenMax.to(sign[4], 1.33, {
+        //         left: randomNumber,
+        //         left: 3,
+        //         left: -3,
+        //         repeat: -1
+        //     });
+        // }
+    }
 
-                    // console.log(panelsNorth);
-                    if (i == 0) {
-                        randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
-                        panelNorth = panelsNorth[i];
-                        TweenMax.to(panelNorth, randomNumber, {
-                            opacity: 0,
-                            top: -88,
-                            left: -21,
-                            repeat: -1
-                        });
-                    } else if (i == 1) {
-                        randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
-                        panelNorth = panelsNorth[i];
-                        TweenMax.to(panelNorth, randomNumber, {
-                            opacity: 0,
-                            repeat: -1
-                        });
-                    } else if (i == 2) {
-                        randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
-                        panelNorth = panelsNorth[i];
-                        TweenMax.to(panelNorth, randomNumber, {
-                            opacity: 0,
-                            top: -76,
-                            left: -95,
-                            repeat: -1
-                        });
-                    } else if (i == 3) {
-                        randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
-                        panelNorth = panelsNorth[i];
-                        TweenMax.to(panelNorth, randomNumber, {
-                            opacity: 0,
-                            top: -86,
-                            left: -73,
-                            repeat: -1
-                        });
-                    } else if (i == 4) {
-                        randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
-                        panelNorth = panelsNorth[i];
-                        TweenMax.to(panelNorth, randomNumber, {
-                            opacity: 0,
-                            top: -98,
-                            left: -101,
-                            repeat: -1
-                        });
-                    } else if (i == 5) {
-                        randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
-                        panelNorth = panelsNorth[i];
-                        TweenMax.to(panelNorth, randomNumber, {
-                            opacity: 0,
-                            top: -90,
-                            left: -116,
-                            repeat: -1
-                        });
-                    } else {
-                        randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
-                        panelNorth = panelsNorth[i];
-                        TweenMax.to(panelNorth, randomNumber, {
-                            opacity: 0,
+    function northFactoryLoop() {
+        // var randomNumber = (Math.random() * (1 - 1) + 2.5).toFixed(2);
+
+        for (var i = 0; i < factoryNorth.length; i++) {
+            //console.log(factoryNorth);
+            if (i > 0 && i < 4) {
+                // smoke
+                var randomNumber = (Math.random() * (2.00 - 1.00) + 1.00).toFixed(2);
+                TweenMax.to(factoryNorth[i].children[1], randomNumber, {
+                    opacity: 1,
+                    top: -30,
+                    width: 30,
+                    left: -6,
+                    repeat: -1
+                });
+                // statistics
+            } else if (i >= 6 && i <= factoryNorth.length) {
+                var randomNumber = (Math.random() * (2.00 - 1.00) + 0.00).toFixed(2);
+                TweenMax.to(factoryNorth[i].children[3], i * 1.33, {
+                    opacity: randomNumber,
+                    repeat: -1
+                });
+                TweenMax.to(factoryNorth[i].children[4], i, {
+                    opacity: randomNumber,
+                    repeat: -1
+                });
+                TweenMax.to(factoryNorth[i].children[5], i * 1.66, {
+                    opacity: randomNumber,
+                    repeat: -1
+                });
+                // boxes
+            } else if (i > 3 && i < 6) {
+                var randomNumber = (Math.random() * (1.00 - 1.00) + 0).toFixed(2);
+                TweenMax.to(factoryNorth[4].children[0], 12, {
+                    x: 13,
+                    y: -6,
+                    repeat: -1
+                });
+                TweenMax.to(factoryNorth[5].children[0], 10, {
+                    x: 31,
+                    y: 18,
+                    repeat: -1
+                });
+            }
+
+        }
+    }
+
+    function southFactoryLoop() {
+        // console.log(factorySouth[0]); // mat left
+        // console.log(); // mat left
+        // console.log(factorySouth[1].children.length); // smoke + factory
+        // console.log(factorySouth[1].children.length); // smoke + factory
+        // console.log(factorySouth[2]); // mat right
+        // console.log(factorySouth.children[1  ].length); // mat right
+        // console.log(factorySouth[1].children[1].children[1]);
+        for (var i = 0; i < factorySouth[1].children.length; i++) {
+            if (i > 0 && i < 4) {
+                // smoke
+                var randomNumber = (Math.random() * (-4.00 - 1.00) + 1.00).toFixed(2);
+                var randomNumberSmoke = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
+                TweenMax.to(factorySouth[1].children[i].children[1], randomNumberSmoke / 2, {
+                    top: -10,
+                    left: randomNumber,
+                    repeat: -1
+                });
+            }
+        } // for
+        TweenMax.to(factorySouth[0].children[2], 8, {
+            top: 50,
+            left: 60,
+            repeat: -1
+        });
+        TweenMax.to(factorySouth[2].children[2], 5, {
+            top: 150,
+            left: 164,
+            repeat: -1
+        });
+    } // southFactoryLoop
+    function digitalServiceLoop() {
+        var randomNumber;
+        var panelsNorth = document.getElementsByClassName("digital-circuit__information")[0].children;
+        var panelsSouth = document.getElementsByClassName("digital--south")[0].children[4].children;
+        var panelNorth;
+        var panelSouth;
+
+        for (var i = 0; i < panelsNorth.length; i++) {
+            // var panel = panels.children[i]; 
+            // console.log(i);
+
+            // console.log(panelsNorth);
+            if (i == 0) {
+                randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
+                panelNorth = panelsNorth[i];
+                TweenMax.to(panelNorth, randomNumber, {
+                    opacity: 0,
+                    top: -88,
+                    left: -21,
+                    repeat: -1
+                });
+            } else if (i == 1) {
+                randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
+                panelNorth = panelsNorth[i];
+                TweenMax.to(panelNorth, randomNumber, {
+                    opacity: 0,
+                    repeat: -1
+                });
+            } else if (i == 2) {
+                randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
+                panelNorth = panelsNorth[i];
+                TweenMax.to(panelNorth, randomNumber, {
+                    opacity: 0,
+                    top: -76,
+                    left: -95,
+                    repeat: -1
+                });
+            } else if (i == 3) {
+                randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
+                panelNorth = panelsNorth[i];
+                TweenMax.to(panelNorth, randomNumber, {
+                    opacity: 0,
+                    top: -86,
+                    left: -73,
+                    repeat: -1
+                });
+            } else if (i == 4) {
+                randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
+                panelNorth = panelsNorth[i];
+                TweenMax.to(panelNorth, randomNumber, {
+                    opacity: 0,
+                    top: -98,
+                    left: -101,
+                    repeat: -1
+                });
+            } else if (i == 5) {
+                randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
+                panelNorth = panelsNorth[i];
+                TweenMax.to(panelNorth, randomNumber, {
+                    opacity: 0,
+                    top: -90,
+                    left: -116,
+                    repeat: -1
+                });
+            } else {
+                randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
+                panelNorth = panelsNorth[i];
+                TweenMax.to(panelNorth, randomNumber, {
+                    opacity: 0,
                     top: -125,
                     left: -42,
                     repeat: -1
                 });
             }
-            
+
 
         } // for
-        
+
         for (var j = 0; j < panelsSouth.length; j++) {
-            
+
             // console.log(panel);
             if (j == 0) {
                 randomNumber = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
@@ -692,16 +724,16 @@ document.addEventListener("DOMContentLoaded", (event) => {
                 });
                 break
             }
-            
-            
+
+
         } //for
-        
-        
+
+
     } //digitalServiceLoop
-    function databaseLoop(){
+    function databaseLoop() {
         var dbSouth = document.getElementsByClassName('digital--south')[0].children[3].children;
         var dbNorth = document.getElementsByClassName('digital-circuit')[0].children[2].children;
-        console.log(dbNorth);
+        // console.log(dbNorth);
         // dbsouth
         TweenMax.to(dbSouth[1], 3, {
             opacity: 1,
@@ -727,13 +759,13 @@ document.addEventListener("DOMContentLoaded", (event) => {
             opacity: 1,
             repeat: -1
         });
-        
+
     }
-    
+
     function ecommerceLoop() {
         var ecomNorth = document.getElementsByClassName('ecommerce')[0].children;
         var ecomSouth = document.getElementsByClassName('animblock__item--city-south')[0].children[4].children;
-        console.log(ecomSouth);
+        // console.log(ecomSouth);
         randomNumber1 = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
         randomNumber2 = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
         randomNumber3 = (Math.random() * (4.00 - 1.00) + 1.00).toFixed(2);
@@ -792,70 +824,71 @@ document.addEventListener("DOMContentLoaded", (event) => {
         // man
         TweenMax.to(ecomNorth[5].children[0], 2, {
             left: -1,
-            top:0,
+            top: 0,
             repeat: -1
         });
         TweenMax.to(ecomNorth[5].children[1], 4, {
             left: 1,
-            top:0,
+            top: 0,
             repeat: -1
         });
         TweenMax.to(ecomNorth[5].children[2], 3, {
             left: -2,
-            top:0,
+            top: 0,
             repeat: -1
         });
         // ecomSouth
         //card
         TweenMax.to(ecomSouth[1], 15, {
-            opacity:0,
+            opacity: 0,
             left: 0,
-            top:0,
+            top: 0,
             repeat: -1,
             yoyo: true
         });
         //clothes
         TweenMax.to(ecomSouth[2].children[1], randomNumber2, {
-            opacity:0,
+            opacity: 0,
             repeat: -1
         });
         TweenMax.to(ecomSouth[2].children[2], randomNumber1, {
-            opacity:0,
+            opacity: 0,
             repeat: -1
         });
         TweenMax.to(ecomSouth[2].children[3], randomNumber3, {
-            opacity:0,
+            opacity: 0,
             repeat: -1
         });
         // woman
         TweenMax.to(ecomSouth[3].children[3], randomNumber3, {
-            left:1,
+            left: 1,
             repeat: -1
         });
         TweenMax.to(ecomSouth[3], 5, {
-            top:5,
-            left:-15,
+            top: 5,
+            left: -15,
             repeat: -1,
             yoyo: true
         });
         TweenMax.to(ecomSouth[3].children[4], randomNumber3, {
-            left:1,
+            left: 1,
             repeat: -1
         });
         TweenMax.to(ecomSouth[3].children[5], randomNumber3, {
-            left:1,
+            left: 1,
             repeat: -1
         });
         TweenMax.to(ecomSouth[3].children[7], randomNumber3, {
-            left:-1,
+            left: -1,
             repeat: -1
         });
         TweenMax.to(ecomSouth[3].children[8], randomNumber2, {
-            left:1,
+            left: 1,
             repeat: -1
         });
-        
+
     }
+
     function warehouseLoop() {
         var warehouseNorth = document.getElementsByClassName('warehouse')[0];
         var fenwickNorth = document.getElementsByClassName('fenwick');
@@ -937,12 +970,12 @@ document.addEventListener("DOMContentLoaded", (event) => {
             yoyo: true
         });
         TweenMax.to(fenwickNorth[0].children[0], 0.01, {
-            top:1,
+            top: 1,
             repeat: -1,
             yoyo: true
         });
         TweenMax.to(fenwickNorth[0].children[1], 0.01, {
-            top:1,
+            top: 1,
             repeat: -1,
             yoyo: true
         });
@@ -966,12 +999,13 @@ document.addEventListener("DOMContentLoaded", (event) => {
             yoyo: true
         });
     }
+
     function digitalWorkers() {
         // man north
         var digitalManNorth = document.getElementsByClassName('digital-circuit__man');
         var digitalManSouth = document.getElementsByClassName('digital--south');
         var helpdeskSouth = document.getElementsByClassName('helpdesk');
-        console.log(helpdeskSouth[0].children[0].children[1]); 
+        // console.log(helpdeskSouth[0].children[0].children[1]); 
         TweenMax.to(digitalManNorth[0].children[1], 1, {
             left: -1,
             repeat: -1,
@@ -990,13 +1024,13 @@ document.addEventListener("DOMContentLoaded", (event) => {
         //man south
         // 3 4
         TweenMax.to(digitalManSouth[0].children[0].children[3], 2, {
-            opacity:0,
+            opacity: 0,
             left: 20,
             top: -20,
             repeat: -1
         });
         TweenMax.to(digitalManSouth[0].children[0].children[4], 1.33, {
-            opacity:0,
+            opacity: 0,
             left: 25,
             top: -20,
             repeat: -1
@@ -1016,32 +1050,221 @@ document.addEventListener("DOMContentLoaded", (event) => {
         });
         // woman south helpdesk
         TweenMax.to(helpdeskSouth[0].children[0].children[2], 2, {
-            opacity:0,
+            opacity: 0,
             left: -1,
             repeat: -1,
             yoyo: true
         });
         TweenMax.to(helpdeskSouth[0].children[1].children[2], 1.33, {
             left: -1,
-            top:-1,
+            top: -1,
             repeat: -1,
             yoyo: true
         });
         TweenMax.to(helpdeskSouth[0].children[1].children[3], 2, {
             left: -1,
-            top:1,
+            top: 1,
             repeat: -1,
             yoyo: true
         });
         TweenMax.to(helpdeskSouth[0].children[1].children[4], 2, {
             left: -1,
-            top:1,
+            top: 1,
             repeat: -1,
             yoyo: true
         });
     }
-    -------------------------------- COMMENT TO DELETE */
-    /* -------------------------------- COMMENT TO DELETE 
+
+    function customsPeople() {
+        var peopleWest = document.getElementsByClassName('animblock__item--city-west')[0];
+        // west
+        // panels
+        TweenMax.to(peopleWest.children[2].children[1].children[0], 1, {
+            opacity: 0,
+            top: -10,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleWest.children[2].children[1].children[1], 1, {
+            opacity: 0,
+            top: -10,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleWest.children[2].children[1].children[2], 3, {
+            opacity: 0,
+            top: -10,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleWest.children[2].children[1].children[3], 3, {
+            opacity: 0,
+            top: -10,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleWest.children[2].children[1].children[4], 1.33, {
+            opacity: 0,
+            top: -10,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleWest.children[2].children[1].children[5], 1.33, {
+            opacity: 0,
+            top: -10,
+            repeat: -1,
+            yoyo: true
+        });
+        // woman
+        TweenMax.to(peopleWest.children[2].children[2].children[1], 1.33, {
+            top: -1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleWest.children[2].children[2].children[2], 2.33, {
+            top: 1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleWest.children[2].children[2].children[5], 2.33, {
+            top: 1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleWest.children[2].children[2].children[6], 4, {
+            top: -1,
+            repeat: -1,
+            yoyo: true
+        });
+        // east
+        var peopleEastMan = document.getElementsByClassName('digital-statistics__man')[0];
+        var peopleEastPanels = document.getElementsByClassName('digital-statistics__content')[0];
+        // console.log(peopleEastPanels);
+        TweenMax.to(peopleEastMan.children[0], 4, {
+            left: -1,
+            top: -1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleEastMan.children[1], 4, {
+            left: 1,
+            top: -1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleEastMan.children[4], 2, {
+            left: -1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleEastMan.children[5], 1, {
+            left: 1,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleEastMan.children[6], 1, {
+            left: 1,
+            repeat: -1,
+            yoyo: true
+        });
+        // panel
+        TweenMax.to(peopleEastPanels.children[0], 1.33, {
+            opacity: 0,
+            top: -10,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleEastPanels.children[1], 1.33, {
+            opacity: 0,
+            top: -10,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleEastPanels.children[2], 1.66, {
+            opacity: 0,
+            top: -10,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleEastPanels.children[3], 1.66, {
+            opacity: 0,
+            top: -10,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleEastPanels.children[4], 2.66, {
+            opacity: 0,
+            top: -10,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleEastPanels.children[5], 2.66, {
+            opacity: 0,
+            top: -10,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleEastPanels.children[6], 3.66, {
+            opacity: 0,
+            top: -10,
+            repeat: -1,
+            yoyo: true
+        });
+        TweenMax.to(peopleEastPanels.children[7], 3.66, {
+            opacity: 0,
+            top: -10,
+            repeat: -1,
+            yoyo: true
+        });
+
+    }
+
+    function customsOrganisation() {
+        var orgWho = document.getElementsByClassName('organisation')[0];
+        // console.log(orgWho.children[0].children[2]);
+        TweenMax.to(orgWho.children[0].children[2], 6.33, {
+            opacity: 1,
+            top: 0,
+            repeat: -1,
+        });
+        TweenMax.to(orgWho.children[1].children[2], 8.33, {
+            opacity: 1,
+            top: 0,
+            repeat: -1,
+        });
+        TweenMax.to(orgWho.children[2].children[2], 10.33, {
+            opacity: 1,
+            top: 0,
+            repeat: -1,
+        });
+    }
+
+    function boat() {
+        var smoke1 = document.getElementsByClassName('boat')[0].children[1].children[0];
+        var smoke2 = document.getElementsByClassName('boat')[0].children[1].children[1];
+        var boat = document.getElementsByClassName('boat')[0];
+        //smoke
+        TweenMax.to(smoke1, 1, {
+            opacity: 0,
+            top: -20,
+            left: -2,
+            repeat: -1,
+        });
+        TweenMax.to(smoke2, 2.33, {
+            opacity: 0,
+            top: -20,
+            left: -2,
+            repeat: -1,
+        });
+        TweenMax.to(boat, 10, {
+            top: 349,
+            left: 656,
+            repeat: -1
+        });
+        // flag
+
+    }
+
     smallPanel();
     mediumPanel();
     bigPanel();
@@ -1057,7 +1280,10 @@ document.addEventListener("DOMContentLoaded", (event) => {
     databaseLoop();
     ecommerceLoop();
     warehouseLoop();
-    //
     digitalWorkers();
-    -------------------------------- COMMENT TO DELETE */
+    // 
+    customsPeople();
+    customsOrganisation();
+    boat();
+
 });
