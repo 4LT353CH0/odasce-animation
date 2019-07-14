@@ -448,7 +448,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
                 width: $huge;
                 top: 209px;
                 left: 617px;
-                */ 
+                */
     }
 
     function truckLoop() {
@@ -488,7 +488,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
             left: 588,
             repeat: -1
         });
-        
+
 
     }
 
@@ -573,14 +573,14 @@ document.addEventListener("DOMContentLoaded", (event) => {
                 });
             }
         } // for
-        TweenMax.to(factorySouth[0].children[2], 8, {
-            top: 50,
-            left: 60,
+        TweenMax.to(factorySouth[0].children[2], 6, {
+            top: 22,
+            left: 16,
             repeat: -1
         });
-        TweenMax.to(factorySouth[2].children[2], 5, {
-            top: 150,
-            left: 164,
+        TweenMax.to(factorySouth[2].children[2], 9, {
+            top: 135,
+            left: 135,
             repeat: -1
         });
     } // southFactoryLoop
@@ -1256,7 +1256,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
             left: -2,
             repeat: -1,
         });
-        TweenMax.to(boat, 10, {
+        TweenMax.to(boat, 25, {
             top: 349,
             left: 656,
             repeat: -1

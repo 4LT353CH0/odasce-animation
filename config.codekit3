@@ -25,6 +25,14 @@
 		"oAP": "/.htaccess",
 		"oF": 1
 		},
+	"/.vscode/sftp.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/.vscode/sftp-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"/img/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
@@ -2434,7 +2442,7 @@
 		"prP": 0
 		},
 	"/index.html": {
-		"cB": 1,
+		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
