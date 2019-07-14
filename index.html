@@ -7,8 +7,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!--loader-->
-    <link rel="stylesheet" href="scss/loader.css">
     <!--css-->
     <link rel="stylesheet" href="scss/main.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
@@ -1195,8 +1193,10 @@
     <footer></footer>
 
     <script>
-        var loader = document.getElementsByClassName('loader')[0];
-        loader.style.opacity = "0";
+        setTimeout(function () {
+            var loader = document.getElementsByClassName('loader')[0];
+            loader.style.opacity = "0";
+        }, 4000);
     </script>
 </body>
 
