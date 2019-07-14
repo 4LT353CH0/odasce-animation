@@ -33,6 +33,24 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/css/loader.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/loader-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/loader.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/loader.css.map",
+		"oF": 0
+		},
 	"/img/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
@@ -40,6 +58,25 @@
 		"oA": 1,
 		"oAP": "/img/.gitignore",
 		"oF": 1
+		},
+	"/img/loader/logo-odasce.gif": {
+		"ft": 4194304,
+		"iS": 2425,
+		"oA": 0,
+		"oAP": "/img/loader/logo-odasce.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/img/loader/logo-odasce.jpg": {
+		"ft": 16384,
+		"iS": 32796,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/loader/logo-odasce.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/img/svg/arrows/arrows-north-east-box.svg": {
 		"ft": 2097152,
@@ -2584,6 +2621,37 @@
 		"oA": 1,
 		"oAP": "/css/_50-city-west.css",
 		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/scss/loader.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/scss/loader-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/scss/loader.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/scss/loader.css.map",
+		"oF": 0
+		},
+	"/scss/loader.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "/scss/loader.css",
+		"oF": 2,
 		"oS": 3,
 		"uL": 1
 		},

@@ -7,57 +7,84 @@
     <meta charset="utf-8">
     <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--loader-->
+    <link rel="stylesheet" href="scss/loader.css">
     <!--css-->
-    <link rel="stylesheet" href="scss/main.css?ckcachebust=e838d62384a51ffdccc3c10e4cceceb7">
-    <!--
-    //
-    GSAP cdn
-    //
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js?ckcachebust=584273103"></script>
-    -->
-    <!--
-    //
-    GSAP localh.. vite!
-    // 
-    -->
-    <!-- <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js?ckcachebust=584273103"></script> -->
+    <link rel="stylesheet" href="scss/main.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
-    <!-- <script src="js/lib/gsap.2.1.3-min.js?ckcachebust=c00070ceccde1df1354616aeb9ecd93a"></script> -->
     <script src="js/main-min.js"></script>
-    <!-- <script src="js/north-min.js?ckcachebust=584273103"></script> -->
-    <!-- <script src="js/east-min.js?ckcachebust=584273103"></script> -->
-    <!-- <script src="js/south-min.js?ckcachebust=584273103"></script> -->
-    <!-- <script src="js/west-min.js?ckcachebust=584273103"></script> -->
-    <!--
-    //
-    Stuff to know
-    //
-    codekit minifier > https://codekitapp.com/help/terser/
-    active GZIP compression > https://css-tricks.com/snippets/htaccess/active-gzip-compression/
-    svg compression with node.js > https://github.com/svg/svgo
-    svg compression en ligne > https://compressor.io/
-    GZIP better explained > https://betterexplained.com/articles/how-to-optimize-your-site-with-gzip-compression/
-    GZIP, GZIP, GZIP > https://varvy.com/pagespeed/enable-compression.html
-    // obfuscate your JS > https://obfuscator.io/é  
-    // the codekit cahce buster is on for develeopment : https://codekitapp.com/help/cache-buster/
-    // codekit stops compiling what to do > https://codekitapp.com/help/troubleshooting/
-    -->
+    <style>
+        .loader {
+            position: absolute;
+            z-index: 99999;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #fff;
+            opacity: 1;
+            transition: 2s;
+            text-align: center;
+        }
 
+        .loader__content-wrap {
+            width: 856px;
+            height: 634px;
+            padding: 190px 0 0 0;
+        }
 
+        .loader__logo {
+            width: 75px;
+            height: 61px;
+            margin: 20px auto 0 auto;
+            padding: 30px 15px;
+            position: relative;
+            border: 1px #043883 solid;
+        }
+
+        .loader__text {
+            animation-duration: 0.5s;
+            animation-name: flicker;
+            transition: ease-in-out;
+            animation-iteration-count: infinite;
+            animation-direction: alternate;
+            font-family: sans-serif;
+            font-weight: 100;
+            text-transform: lowercase;
+            color: #043883;
+            width: 75px;
+            height: 61px;
+            font-size: 11px;
+            letter-spacing: 3px;
+            margin: 10px auto;
+            padding: 0px 15px;
+            text-align: center;
+        }
+
+        @keyframes flicker {
+            from {
+                opacity: 1;
+            }
+
+            to {
+                opacity: 0;
+            }
+        }
+    </style>
 </head>
 
 <body class="pageblock">
-    <!--[if IE]>
-    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-  <![endif]-->
-    <header>
-    </header>
+
+    <section class="loader">
+        <div class="loader__content-wrap">
+            <img src="img/loader/logo-odasce.gif" class="loader__logo">
+            <div class="loader__text">Loading</div>
+        </div>
+    </section>
+
     <main class="sectionblock">
-        <!-- delete when finished animation -->
-        <!-- <figure class="imgblock">
-            <figcaption></figcaption>
-        </figure> -->
-        <!-- /delete when finished animation -->
         <!--  Animation start-->
         <div class="animblock">
             <!-- All arrows -->
@@ -784,13 +811,20 @@
                         <img src="img/svg/city-north/city-north-digital-circuit-pipeline.svg" alt="digital circuit">
                     </div>
                     <div class="digital-circuit__information">
-                        <img src="img/svg/city-north/city-north-digital-circuit-pipeline-information-1.svg" alt="digital circuit">
-                        <img src="img/svg/city-north/city-north-digital-circuit-pipeline-information-2.svg" alt="digital circuit">
-                        <img src="img/svg/city-north/city-north-digital-circuit-pipeline-information-3.svg" alt="digital circuit">
-                        <img src="img/svg/city-north/city-north-digital-circuit-pipeline-information-4.svg" alt="digital circuit">
-                        <img src="img/svg/city-north/city-north-digital-circuit-pipeline-information-5.svg" alt="digital circuit">
-                        <img src="img/svg/city-north/city-north-digital-circuit-pipeline-information-5.svg" alt="digital circuit">
-                        <img src="img/svg/city-north/city-north-digital-circuit-pipeline-information-6.svg" alt="digital circuit">
+                        <img src="img/svg/city-north/city-north-digital-circuit-pipeline-information-1.svg"
+                            alt="digital circuit">
+                        <img src="img/svg/city-north/city-north-digital-circuit-pipeline-information-2.svg"
+                            alt="digital circuit">
+                        <img src="img/svg/city-north/city-north-digital-circuit-pipeline-information-3.svg"
+                            alt="digital circuit">
+                        <img src="img/svg/city-north/city-north-digital-circuit-pipeline-information-4.svg"
+                            alt="digital circuit">
+                        <img src="img/svg/city-north/city-north-digital-circuit-pipeline-information-5.svg"
+                            alt="digital circuit">
+                        <img src="img/svg/city-north/city-north-digital-circuit-pipeline-information-5.svg"
+                            alt="digital circuit">
+                        <img src="img/svg/city-north/city-north-digital-circuit-pipeline-information-6.svg"
+                            alt="digital circuit">
                     </div>
                     <div class="digital-circuit__database">
                         <img src="img/svg/city-north/city-north-digital-circuit-database-base.svg"
@@ -1045,13 +1079,20 @@
                     </div>
 
                     <div>
-                        <img src="img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-1.svg" alt="ecommerce">
-                        <img src="img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-1.svg" alt="ecommerce">
-                        <img src="img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-1.svg" alt="ecommerce">
-                        <img src="img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-2.svg" alt="ecommerce">
-                        <img src="img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-2.svg" alt="ecommerce">
-                        <img src="img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-2.svg" alt="ecommerce">
-                        <img src="img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-4.svg" alt="ecommerce">
+                        <img src="img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-1.svg"
+                            alt="ecommerce">
+                        <img src="img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-1.svg"
+                            alt="ecommerce">
+                        <img src="img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-1.svg"
+                            alt="ecommerce">
+                        <img src="img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-2.svg"
+                            alt="ecommerce">
+                        <img src="img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-2.svg"
+                            alt="ecommerce">
+                        <img src="img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-2.svg"
+                            alt="ecommerce">
+                        <img src="img/svg/city-south/city-south-digital-sendoff-pipeline-1-information-4.svg"
+                            alt="ecommerce">
                     </div>
                 </div>
                 <div class="ecommerce">
@@ -1147,22 +1188,16 @@
                 </div>
             </div>
             <!-- /City west -->
-
-            <!--
-                ///
-                 /animblock 
-                 ///
-            -->
-
         </div>
         </div>
-
-
-
         </div>
-
-        <!--  Animation end-->
     </main>
     <footer></footer>
+
+    <script>
+        var loader = document.getElementsByClassName('loader')[0];
+        loader.style.opacity = "0";
+    </script>
+</body>
 
 </html>
